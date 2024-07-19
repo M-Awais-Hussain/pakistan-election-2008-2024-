@@ -60,7 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Stay Connected 🌐
 - LinkedIn: [Muhammad Awais Hussain](https://www.linkedin.com/in/muhammad-awais-hussain-4424b1232/)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
 
 Thank you for checking out my project! 🎉
 
